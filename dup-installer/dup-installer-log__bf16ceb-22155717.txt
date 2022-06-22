@@ -1,0 +1,162 @@
+********************************************************************************
+* DUPLICATOR-LITE: Install-Log
+* STEP-1 START @ 07:36:14
+* VERSION: 1.4.6
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 8.0.19                                |8.1.4
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2022-06-22 15:57:17
+WP VERSION__________: 6.0
+DUP VERSION_________: 1.4.6
+DB__________________: 10.6.8
+DB TABLES___________: 59
+DB ROWS_____________: 8,154
+DB FILE SIZE________: 34.53MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 8.1.4 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4
+DOC ROOT____________: "E:/xampp/htdocs/Final"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/Final/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "E:/xampp/htdocs/Final/Acres2_[HASH]_20220622155717_archive.zip"
+SIZE________________: 564.41MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "E:/xampp/htdocs/Final/Acres2_[HASH]_20220622155717_archive.zip"
+SIZE________________: 564.41MBFile timestamp set to Current: 2022-06-22 19:39:49
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTRACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 07:39:49 - RUNTIME: 215.0989 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 07:40:47
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.24 -- Build Server: 10.6.8
+FILE SIZE:	dup-database__[HASH].sql (19.1MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[E:/xampp/htdocs/Final/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	On
+
+NOTICE: This servers version [10.4.24] is less than the build version [10.6.8].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+LEGACY COLLATION FALLBACK:
+	Running the following replacements:
+	[{"search":"utf8mb3_general_ci","replace":"utf8mb4_unicode_520_ci"}]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 07:43:11
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.24 -- Build Server: 10.6.8
+FILE SIZE:	dup-database__[HASH].sql (19.1MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[E:/xampp/htdocs/Final/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	On
+
+NOTICE: This servers version [10.4.24] is less than the build version [10.6.8].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+LEGACY COLLATION FALLBACK:
+	Running the following replacements:
+	[{"search":"utf8mb3_general_ci","replace":"utf8mb4_unicode_520_ci"}]
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'nada'@'localhost' (using password: YES)
