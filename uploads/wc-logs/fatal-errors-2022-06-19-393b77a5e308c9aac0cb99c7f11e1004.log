@@ -1,0 +1,63 @@
+2022-06-19T23:13:49+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post-new.php(75): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:14:59+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post-new.php(75): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:16:04+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post-new.php(75): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:16:21+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post.php(206): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:17:48+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post.php(206): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:17:54+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post-new.php(75): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
+2022-06-19T23:44:45+00:00 CRITICAL Uncaught ValueError: Missing format specifier at end of string in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php:280
+Stack trace:
+#0 /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php(280): sprintf()
+#1 /opt/bitnami/wordpress/wp-admin/includes/template.php(1401): Advanced_Floating_Content_Admin->submit_meta_box()
+#2 /opt/bitnami/wordpress/wp-admin/edit-form-advanced.php(681): do_meta_boxes()
+#3 /opt/bitnami/wordpress/wp-admin/post-new.php(75): require('...')
+#4 {main}
+  thrown in /bitnami/wordpress/wp-content/plugins/advanced-floating-content-lite/admin/class-advanced-floating-content-admin.php on line 280
+
